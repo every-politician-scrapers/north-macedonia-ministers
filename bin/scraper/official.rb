@@ -11,7 +11,7 @@ class MemberList
     end
 
     def position
-      noko.xpath('following-sibling::text()[1]').text.tidy
+      noko.xpath('following-sibling::text()[1]').text.split(/ and (?=Minister)/).map(&:tidy)
     end
   end
 
