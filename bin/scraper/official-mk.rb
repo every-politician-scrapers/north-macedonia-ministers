@@ -7,20 +7,20 @@ require 'pry'
 class MemberList
   class Member
     def name
-      noko.text.split(' - ').first.tidy
+      noko.css('.card-view-title').text.tidy
     end
 
     def position
-      noko.xpath('following-sibling::text()[1]').text.tidy
+      noko.css('.card-view-cat').text.tidy
     end
   end
 
   class Members
     def member_container
-      noko.css('#collapse0 strong')
+      noko.css('.card-view')
     end
   end
 end
 
-file = Pathname.new 'html/official.html'
+file = Pathname.new 'html/official-mk.html'
 puts EveryPoliticianScraper::FileData.new(file).csv
