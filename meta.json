@@ -1,20 +1,20 @@
 {
     "jurisdiction": {
-      "name": "XXX",
-      "id": "Qxxx"
+      "name": "North Macedonia",
+      "id": "Q221"
     },
     "cabinet": {
-      "id": "Qxxx",
-      "start": "YYYY-MM-DD",
-      "parent": "Qxxx"
+      "id": "Q98831638",
+      "start": "2020-08-30",
+      "parent": "Q1343342"
     },
     "source": {
-        "url":   "XXX",
-        "title": "XXX",
+        "url":   "https://vlada.mk/sostav-na-vladata",
+        "title": "Состав на Владата на Република Северна Македонија | Влада на Република Северна Македонија",
         "lang":  {
-            "code": "en",
-            "wikidata": "Q1860"
+            "code": "mk",
+            "wikidata": "Q9296"
         }
     },
-    "agent": "every-politican-scrapers/XXX"
+    "agent": "every-politican-scrapers/north-macedonia-ministers"
 }
