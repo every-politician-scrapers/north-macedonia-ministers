@@ -1,0 +1,6 @@
+ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision,abolished,abolishedPrecision,endTime,endTimePrecision,isa,isaLabel,parent,parentLabel,replaces,replacesLabel,replacedBy,replacedByLabel,follows,followsLabel,followedBy,followedByLabel
+,Q30103125,first Zaev Cabinet,,,2017-05-31,11,2020-01-03,11,,,Q640506,cabinet,,,Q30748831,2nd Dimitriev Cabinet,Q87445455,Spasovski cabinet,,,,
+,Q87445455,Spasovski cabinet,,,2020-01-03,11,2020-08-30,11,,,Q640506,cabinet,,,Q30103125,first Zaev Cabinet,Q98831638,second Zaev Cabinet,,,,
+,Q17513112,Cabinet of Nikola Gruevski IV,2014-06-19,11,,,2017-01-01,9,,,Q640506,cabinet,,,Q3112092,Q3112092,Q24258949,Q24258949,,,,
+,Q30748831,2nd Dimitriev Cabinet,2016-09-02,11,,,2017-05-31,11,,,Q1343342,Government of North Macedonia,,,,,Q30103125,first Zaev Cabinet,,,,
+,Q98831638,second Zaev Cabinet,2020-08-30,11,,,,,,,Q1343342,Government of North Macedonia,,,Q87445455,Spasovski cabinet,,,,,,
