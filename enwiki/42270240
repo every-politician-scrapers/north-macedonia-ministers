@@ -18,7 +18,7 @@
         {
           "sentences": [
             {
-              "text": "Stevo Pendarovski (Стево Пендаровски; born 3 April 1963) is a Macedonian politician who has served as the 5th and current President of North Macedonia since 2019.",
+              "text": "Stevo Pendarovski (Стево Пендаровски; born 3 April 1963) is a Macedonian politician who has served as the 5th and current President of North Macedonia since 12 May 2019.",
               "links": [
                 {
                   "type": "internal",
@@ -60,13 +60,13 @@
             "text": "Стево Пендаровски"
           },
           "image": {
-            "text": "President Pendarovski (48314466596).jpg"
+            "text": "Стево Пендаровский (16-10-2018) (cropped).jpg"
           },
           "caption": {
             "text": "Pendarovski in 2018"
           },
           "office": {
-            "text": "President of North Macedonia",
+            "text": "5th President of North Macedonia",
             "links": [
               {
                 "type": "internal",
@@ -272,9 +272,16 @@
       ]
     },
     {
-      "title": "Professional career",
-      "depth": 0,
+      "title": "Political career",
+      "depth": 0
+    },
+    {
+      "title": "1998–2014: Beginning, politics",
+      "depth": 1,
       "paragraphs": [
+        {
+          "sentences": []
+        },
         {
           "sentences": [
             {
@@ -370,6 +377,15 @@
           ]
         }
       ],
+      "images": [
+        {
+          "file": "file:Secretary Pompeo Meets With President Pendarovski (48842074277).jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Secretary_Pompeo_Meets_With_President_Pendarovski_(48842074277).jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Secretary_Pompeo_Meets_With_President_Pendarovski_(48842074277).jpg",
+          "caption": "US Secretary of State Mike Pompeo meets with Pendarovski in October 2019",
+          "links": []
+        }
+      ],
       "references": [
         {
           "url": "https://www.faktor.mk/intervju-pendarovski-so-niedna-partija-ne-sum-razgovaral-za-kandidatura-za-pretsedatel-1",
@@ -406,13 +422,13 @@
       ]
     },
     {
-      "title": "Political career",
-      "depth": 0,
+      "title": "2014–present: Elections, being declared as president",
+      "depth": 1,
       "paragraphs": [
         {
           "sentences": [
             {
-              "text": "In March 2014, Pendarovski was elected by the main opposition party Social Democratic Union of Macedonia as its candidate for the April 2014 presidential election.",
+              "text": "On 4 March 2014, Pendarovski was elected by the main opposition party Social Democratic Union of Macedonia as its candidate for the April 2014 presidential election.",
               "links": [
                 {
                   "type": "internal",
@@ -447,6 +463,15 @@
               "text": "He went on to win 436,212 votes in the second round of the presidential election, 51.66% of the votes cast."
             }
           ]
+        }
+      ],
+      "images": [
+        {
+          "file": "file:Stevo Pendarovski 4.jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Stevo_Pendarovski_4.jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Stevo_Pendarovski_4.jpg",
+          "caption": "Pendarovski became a candidate for president of Macedonia, during visit to Brvenica, April 2014",
+          "links": []
         }
       ],
       "references": [
@@ -506,7 +531,7 @@
       ]
     },
     {
-      "title": "Family",
+      "title": "Personal life",
       "depth": 0,
       "paragraphs": [
         {
