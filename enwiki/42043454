@@ -282,13 +282,18 @@
             ]
           },
           "party": {
-            "text": "Independent (1996–2020) SDSM (2020–present)",
+            "text": "Independent (1996–present)",
             "links": [
               {
                 "text": "Independent",
                 "type": "internal",
                 "page": "Independent politician"
-              },
+              }
+            ]
+          },
+          "otherparty": {
+            "text": "SDSM (2020–present)",
+            "links": [
               {
                 "text": "SDSM",
                 "type": "internal",
