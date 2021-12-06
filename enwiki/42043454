@@ -124,7 +124,7 @@
             "text": "Nikola Dimitrov Никола Димитров"
           },
           "image": {
-            "text": "Informal meeting of ministers for foreign affairs (Gymnich). Arrivals Nikola Dimitrov (36957321831)-cropped (cropped).jpg"
+            "text": "Nikola Dimitrov official portrait 2020.jpg"
           },
           "office": {
             "text": "Deputy Prime Minister for European Integration (North Macedonia)"
@@ -267,8 +267,9 @@
                 "page": "Skopje"
               },
               {
+                "text": "SR Macedonia",
                 "type": "internal",
-                "page": "SR Macedonia"
+                "page": "Socialist Republic of Macedonia"
               },
               {
                 "text": "Yugoslavia",
@@ -314,6 +315,9 @@
                 "page": "King's College, Cambridge"
               }
             ]
+          },
+          "caption": {
+            "text": "Official portrait, 2020"
           }
         }
       ]
