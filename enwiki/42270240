@@ -129,6 +129,16 @@
               }
             ]
           },
+          "party": {
+            "text": "SDSM",
+            "links": [
+              {
+                "text": "SDSM",
+                "type": "internal",
+                "page": "Social Democratic Union of Macedonia"
+              }
+            ]
+          },
           "spouse": {
             "text": "Elizabeta Gjorgievska"
           },
