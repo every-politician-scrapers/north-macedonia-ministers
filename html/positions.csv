@@ -1,6 +1,7 @@
 id,position,country,jurisdiction,deputy,list,start,end,before,after,enwiki
 Q678492,President of North Macedonia,Q221,Q221,,,1991-04-16,,,,President of North Macedonia
 Q1776220,Prime Minister of North Macedonia,Q221,Q221,,Q29159502,1991-04-16,,,,Prime Minister of North Macedonia
+Q108336268,Deputy Prime Minister of North Macedonia,Q221,Q221,,,,,,,
 Q108337224,Deputy Prime Minister in charge of Economic Affairs,Q221,Q221,,,,,,,
 Q108336676,Deputy Prime Minister for European Integration,Q221,Q221,,,,,,,
 Q108336757,Deputy Prime Minister for the Fight against Corruption and Crime,Q221,Q221,,,,,,,
