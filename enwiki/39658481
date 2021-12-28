@@ -252,6 +252,9 @@
           "term_start": {
             "text": "30 August 2020"
           },
+          "term_end": {
+            "text": "23 December 2021"
+          },
           "predecessor": {
             "text": "Oliver Spasovski",
             "links": [
@@ -260,6 +263,14 @@
                 "page": "Oliver Spasovski"
               }
             ]
+          },
+          "successor": {
+            "text": "Himself (acting)",
+            "formatting": {
+              "italic": [
+                "Himself"
+              ]
+            }
           },
           "president1": {
             "text": "Gjorge Ivanov\nStevo Pendarovski",
