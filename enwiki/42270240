@@ -75,7 +75,7 @@
             ]
           },
           "primeminister": {
-            "text": "Zoran Zaev Oliver Spasovski Zoran Zaev",
+            "text": "Zoran Zaev Oliver Spasovski Zoran Zaev Dimitar Kovačevski",
             "links": [
               {
                 "type": "internal",
@@ -88,6 +88,10 @@
               {
                 "type": "internal",
                 "page": "Zoran Zaev"
+              },
+              {
+                "type": "internal",
+                "page": "Dimitar Kovačevski"
               }
             ]
           },
@@ -126,16 +130,6 @@
               {
                 "type": "internal",
                 "page": "North Macedonia"
-              }
-            ]
-          },
-          "party": {
-            "text": "SDSM",
-            "links": [
-              {
-                "text": "SDSM",
-                "type": "internal",
-                "page": "Social Democratic Union of Macedonia"
               }
             ]
           },
