@@ -404,31 +404,6 @@
             "text": "Official portrait, 2020"
           }
         }
-      ],
-      "references": [
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "title": "Heads of State, Heads of Government and Ministers for Foreign Affairs",
-          "url": "https://protocol.un.org/dgacm/pls/site.nsf/files/HSPMFM/$FILE/Hspmfm.pdf#page=43",
-          "publisher": "Protocol and Liaison Service, United Nations",
-          "access-date": "1 September 2020",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "date": "2021-12-22",
-          "title": "North Macedonia's prime minister formally steps down",
-          "language": "en",
-          "url": "https://apnews.com/article/europe-elections-local-elections-northmacedonia-zoran-zaev-4840b9c1fb7a326b50f5df2d517381a1",
-          "access-date": "2021-12-28",
-          "template": "citation",
-          "type": "news"
-        }
       ]
     }
   ]

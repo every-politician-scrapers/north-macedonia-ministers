@@ -311,29 +311,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "url": "http://www.setimes.com/cocoon/setimes/xhtml/en_GB/newsbriefs/setimes/newsbriefs/2006/11/06/nb-04",
-          "title": "Sekerinska elected leader of Macedonia's main opposition party",
-          "accessdate": "28 June 2017",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "url": "http://europa.eu/rapid/pressReleasesAction.do?reference=DOC/05/4&format=HTML&aged=1&language=EN&guiLanguage=en",
-          "title": "European Commission - PRESS RELEASES - Press release - EUROPEAN COUNCIL BRUSSELS 15 & 16 December 2005 PRESIDENCY CONCLUSIONS",
-          "website": "europa.eu",
-          "accessdate": "28 June 2017",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

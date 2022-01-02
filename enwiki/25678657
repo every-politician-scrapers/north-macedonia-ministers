@@ -224,21 +224,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "url": "https://finance.gov.mk/en/node/788",
-          "title": "Minister of Finance",
-          "website": "Ministry of Finance North Macedonia",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]
