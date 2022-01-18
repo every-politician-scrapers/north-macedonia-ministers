@@ -3,4 +3,5 @@ ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision
 ,Q30748831,2nd Dimitriev Cabinet,2016-09-02,11,,,2017-05-31,11,,,,,Q30103125,first Zaev Cabinet,,,,
 ,Q30103125,first Zaev Cabinet,,,2017-05-31,11,2020-01-03,11,,,Q30748831,2nd Dimitriev Cabinet,Q87445455,Spasovski cabinet,,,,
 ,Q87445455,Spasovski cabinet,,,2020-01-03,11,2020-08-30,11,,,Q30103125,first Zaev Cabinet,Q98831638,second Zaev Cabinet,,,,
-,Q98831638,second Zaev Cabinet,2020-08-30,11,,,,,,,Q87445455,Spasovski cabinet,,,,,,
+,Q98831638,second Zaev Cabinet,2020-08-30,11,,,2022-01-16,11,,,Q87445455,Spasovski cabinet,Q110597842,Kovačevski Cabinet,,,,
+,Q110597842,Kovačevski Cabinet,2022-01-16,11,,,,,,,Q98831638,second Zaev Cabinet,,,,,,
