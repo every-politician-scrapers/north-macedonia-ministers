@@ -123,13 +123,8 @@
             ]
           },
           "nationality": {
-            "text": "🇧🇬 Bulgaria\n\n North Macedonia",
+            "text": "North Macedonia",
             "links": [
-              {
-                "text": "Bulgaria",
-                "type": "internal",
-                "page": "bulgaria"
-              },
               {
                 "text": "North Macedonia",
                 "type": "internal",
