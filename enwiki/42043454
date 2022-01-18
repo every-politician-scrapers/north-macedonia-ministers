@@ -157,12 +157,24 @@
           "term_start": {
             "text": "30 August 2020"
           },
+          "term_end": {
+            "text": "17 January 2022"
+          },
           "predecessor": {
             "text": "Bujar Osmani",
             "links": [
               {
                 "type": "internal",
                 "page": "Bujar Osmani"
+              }
+            ]
+          },
+          "successor": {
+            "text": "Bojan Maricik",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Bojan Maricik"
               }
             ]
           },

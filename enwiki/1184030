@@ -22,7 +22,7 @@
         {
           "sentences": [
             {
-              "text": "Radmila Šekerinska Jankovska (Радмила Шекеринска Јанковска ; born 10 June 1972) is the current defense minister of North Macedonia and a former leader of the Social Democratic Union of Macedonia (SDSM).",
+              "text": "Radmila Šekerinska Jankovska (Радмила Шекеринска Јанковска ; born 10 June 1972) is the former defense minister of North Macedonia and a former leader of the Social Democratic Union of Macedonia (SDSM).",
               "links": [
                 {
                   "text": "defense minister",
@@ -175,12 +175,24 @@
           "term_start": {
             "text": "1 June 2017"
           },
+          "term_end": {
+            "text": "16 January 2022"
+          },
           "predecessor": {
             "text": "Zoran Jolevski",
             "links": [
               {
                 "type": "internal",
                 "page": "Zoran Jolevski"
+              }
+            ]
+          },
+          "successor": {
+            "text": "Slavjanka Petrovska",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Slavjanka Petrovska"
               }
             ]
           },
