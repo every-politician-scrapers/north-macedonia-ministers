@@ -113,11 +113,15 @@
             "text": "30 August 2020"
           },
           "primeminister": {
-            "text": "Zoran Zaev",
+            "text": "Zoran Zaev Dimitar Kovačevski",
             "links": [
               {
                 "type": "internal",
                 "page": "Zoran Zaev"
+              },
+              {
+                "type": "internal",
+                "page": "Dimitar Kovačevski"
               }
             ]
           },
