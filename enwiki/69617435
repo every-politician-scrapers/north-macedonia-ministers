@@ -20,7 +20,7 @@
         {
           "sentences": [
             {
-              "text": "Dimitar Kovačevski (Димитар Ковачевски; born 1974) is a Macedonian politician and economist serving as prime minister of North Macedonia since 17 January 2022.",
+              "text": "Dimitar Kovačevski (Димитар Ковачевски; born 1974) is a Macedonian politician and economist serving as prime minister of North Macedonia since 16 January 2022.",
               "links": [
                 {
                   "text": "prime minister of North Macedonia",
@@ -97,7 +97,7 @@
             ]
           },
           "term_start": {
-            "text": "17 January 2022"
+            "text": "16 January 2022"
           },
           "predecessor": {
             "text": "Zoran Zaev",
@@ -123,27 +123,6 @@
           },
           "predecessor1": {
             "text": "Zoran Zaev"
-          },
-          "office2": {
-            "text": "Deputy Minister of Finance"
-          },
-          "term_start2": {
-            "text": "23 September 2020"
-          },
-          "term_end2": {
-            "text": "17 January 2022"
-          },
-          "primeminister2": {
-            "text": "Zoran Zaev"
-          },
-          "minister2": {
-            "text": "Fatmir Besimi",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Fatmir Besimi"
-              }
-            ]
           },
           "birth_date": {
             "text": "1974 (age 48)"
