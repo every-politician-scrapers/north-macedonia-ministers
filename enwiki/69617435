@@ -122,7 +122,13 @@
             "text": "12 December 2021"
           },
           "predecessor1": {
-            "text": "Zoran Zaev"
+            "text": "Zoran Zaev",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Zoran Zaev"
+              }
+            ]
           },
           "birth_date": {
             "text": "1974 (age 48)"
