@@ -11,13 +11,20 @@ class MemberList
     end
 
     def position
-      noko.xpath('following::text()[1]').text.tidy.delete_prefix('- ').delete_prefix('– ').split(/ and (?=Minister)/).map(&:tidy)
+      raw_position.split(/ and (?=Minister)/).map(&:tidy)
     end
+
+    private
+
+    def raw_position
+      noko.xpath('following::text()').map { |node| node.text.sub(/^[[:space:]]?[–-][[:space]]?/, '').tidy }.reject(&:empty?).first
+    end
+
   end
 
   class Members
     def member_container
-      noko.css('#collapse0 strong')
+      noko.css('#collapse0 a')
     end
   end
 end
