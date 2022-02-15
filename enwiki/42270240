@@ -40,7 +40,7 @@
           "template": "short description"
         },
         {
-          "date": "May 2019",
+          "date": "February 2022",
           "template": "use dmy dates"
         },
         {
@@ -111,7 +111,7 @@
             "text": "April 3, 1963"
           },
           "birth_place": {
-            "text": "Skopje, PR Macedonia, FPR Yugoslavia (now North Macedonia)",
+            "text": "Skopje, PR Macedonia, FPR Yugoslavia",
             "links": [
               {
                 "type": "internal",
@@ -126,10 +126,6 @@
                 "text": "FPR Yugoslavia",
                 "type": "internal",
                 "page": "Federal People's Republic of Yugoslavia"
-              },
-              {
-                "type": "internal",
-                "page": "North Macedonia"
               }
             ]
           },
