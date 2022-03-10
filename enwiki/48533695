@@ -1,334 +1,46 @@
 {
-  "title": "Oliver Spasovski",
-  "pageID": 48533695,
-  "categories": [
-    "1976 births",
-    "Eastern Orthodox Christians from North Macedonia",
-    "Living people",
-    "Members of the Macedonian Orthodox Church",
-    "People from Kumanovo",
-    "Internal affairs ministers of North Macedonia",
-    "Prime Ministers of North Macedonia",
-    "Social Democratic Union of Macedonia politicians"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Oliver Spasovski (Оливер Спасовски; born 21 October 1976) is a Macedonian politician who is the current Minister of Internal Affairs since 30 August 2020 and previously from November 2015 to May 2016, September to December 2016 and May 2017 to January 2020.",
-              "links": [
-                {
-                  "text": "Minister of Internal Affairs",
-                  "type": "internal",
-                  "page": "Ministry of Internal Affairs (North Macedonia)"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Oliver Spasovski"
-                ]
-              }
-            },
-            {
-              "text": "He is the general secretary of the Social Democratic Union of Macedonia (SDSM).",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Social Democratic Union of Macedonia"
-                }
-              ]
-            },
-            {
-              "text": "He served as Prime Minister of North Macedonia from 3 January 2020 to 30 August 2020, following an agreement between the leaders of SDSM and VMRO-DPMNE, Zoran Zaev and Hristijan Mickoski, to hold early parliamentary elections on 12 April 2020, which was rescheduled to 15 July 2020.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Prime Minister of North Macedonia"
-                },
-                {
-                  "type": "internal",
-                  "page": "Zoran Zaev"
-                },
-                {
-                  "type": "internal",
-                  "page": "Hristijan Mickoski"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "9th Prime Minister of North Macedonia",
-          "template": "short description"
-        },
-        {
-          "year": "1976",
-          "month": "10",
-          "day": "21",
-          "df": "y",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Oliver Spasovski"
-          },
-          "image": {
-            "text": "Oliver Spasovski official portrait 2020 (cropped).jpg"
-          },
-          "honorific-suffix": {
-            "text": "M.D.",
-            "links": [
-              {
-                "text": "M.D.",
-                "type": "internal",
-                "page": "Magister degree"
-              }
-            ]
-          },
-          "office": {
-            "text": "Prime Minister of North Macedonia"
-          },
-          "order": {
-            "text": "9th"
-          },
-          "president": {
-            "text": "Stevo Pendarovski",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Stevo Pendarovski"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "3 January 2020"
-          },
-          "term_end": {
-            "text": "30 August 2020"
-          },
-          "predecessor": {
-            "text": "Zoran Zaev",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Zoran Zaev"
-              }
-            ]
-          },
-          "successor": {
-            "text": "Zoran Zaev"
-          },
-          "office1": {
-            "text": "Minister of Internal Affairs",
-            "links": [
-              {
-                "text": "Minister of Internal Affairs",
-                "type": "internal",
-                "page": "Ministry of Internal Affairs (North Macedonia)"
-              }
-            ]
-          },
-          "primeminister1": {
-            "text": "Zoran Zaev Dimitar Kovačevski",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Zoran Zaev"
-              },
-              {
-                "type": "internal",
-                "page": "Dimitar Kovačevski"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "30 August 2020"
-          },
-          "predecessor1": {
-            "text": "Nakje Chulev"
-          },
-          "primeminister2": {
-            "text": "Zoran Zaev",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Zoran Zaev"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "1 June 2017"
-          },
-          "term_end2": {
-            "text": "3 January 2020"
-          },
-          "predecessor2": {
-            "text": "Agim Nuhiu",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Agim Nuhiu"
-              }
-            ]
-          },
-          "successor2": {
-            "text": "Nakje Chulev"
-          },
-          "primeminister3": {
-            "text": "Nikola Gruevski",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Nikola Gruevski"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "2 September 2016"
-          },
-          "term_end3": {
-            "text": "29 December 2016"
-          },
-          "predecessor3": {
-            "text": "Oliver Andonov"
-          },
-          "successor3": {
-            "text": "Agim Nuhiu",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Agim Nuhiu"
-              }
-            ]
-          },
-          "primeminister4": {
-            "text": "Nikola Gruevski",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Nikola Gruevski"
-              }
-            ]
-          },
-          "term_start4": {
-            "text": "11 November 2015"
-          },
-          "term_end4": {
-            "text": "19 May 2016"
-          },
-          "predecessor4": {
-            "text": "Mitko Chavkov",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mitko Chavkov"
-              }
-            ]
-          },
-          "successor4": {
-            "text": "Mitko Chavkov",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mitko Chavkov"
-              }
-            ]
-          },
-          "office5": {
-            "text": "Member of Assembly of the Republic of Macedonia"
-          },
-          "term_start5": {
-            "text": "2011",
-            "number": 2011
-          },
-          "term_end5": {
-            "text": "2015",
-            "number": 2015
-          },
-          "term_start6": {
-            "text": "2006",
-            "number": 2006
-          },
-          "term_end6": {
-            "text": "2008",
-            "number": 2008
-          },
-          "office7": {
-            "text": "President of the Council of Kumanovo Municipality",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Kumanovo Municipality"
-              }
-            ]
-          },
-          "term_start7": {
-            "text": "2008",
-            "number": 2008
-          },
-          "term_end7": {
-            "text": "2011",
-            "number": 2011
-          },
-          "birth_name": {
-            "text": "Oliver Spasovski"
-          },
-          "birth_date": {
-            "text": "October 21, 1976"
-          },
-          "birth_place": {
-            "text": "Kumanovo, SR Macedonia, SFR Yugoslavia (now North Macedonia)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Kumanovo"
-              },
-              {
-                "text": "SR Macedonia",
-                "type": "internal",
-                "page": "Socialist Republic of Macedonia"
-              },
-              {
-                "text": "SFR Yugoslavia",
-                "type": "internal",
-                "page": "Socialist Federal Republic of Yugoslavia"
-              },
-              {
-                "type": "internal",
-                "page": "North Macedonia"
-              }
-            ]
-          },
-          "spouse": {
-            "text": "Katerina"
-          },
-          "children": {
-            "text": "2",
-            "number": 2
-          },
-          "occupation": {
-            "text": "Politician"
-          },
-          "party": {
-            "text": "SDSM",
-            "links": [
-              {
-                "text": "SDSM",
-                "type": "internal",
-                "page": "Social Democratic Union of Macedonia"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Oliver Spasovski",
+  "image": "Oliver Spasovski official portrait 2020 (cropped).jpg",
+  "honorific-suffix": "M.D.",
+  "office": "Prime Minister of North Macedonia",
+  "order": "9th",
+  "president": "Stevo Pendarovski",
+  "term_start": "3 January 2020",
+  "term_end": "30 August 2020",
+  "predecessor": "Zoran Zaev",
+  "successor": "Zoran Zaev",
+  "office1": "Minister of Internal Affairs",
+  "primeminister1": "Zoran Zaev Dimitar Kovačevski",
+  "term_start1": "30 August 2020",
+  "predecessor1": "Nakje Chulev",
+  "primeminister2": "Zoran Zaev",
+  "term_start2": "1 June 2017",
+  "term_end2": "3 January 2020",
+  "predecessor2": "Agim Nuhiu",
+  "successor2": "Nakje Chulev",
+  "primeminister3": "Nikola Gruevski",
+  "term_start3": "2 September 2016",
+  "term_end3": "29 December 2016",
+  "predecessor3": "Oliver Andonov",
+  "successor3": "Agim Nuhiu",
+  "primeminister4": "Nikola Gruevski",
+  "term_start4": "11 November 2015",
+  "term_end4": "19 May 2016",
+  "predecessor4": "Mitko Chavkov",
+  "successor4": "Mitko Chavkov",
+  "office5": "Member of Assembly of the Republic of Macedonia",
+  "term_start5": "2011",
+  "term_end5": "2015",
+  "term_start6": "2006",
+  "term_end6": "2008",
+  "office7": "President of the Council of Kumanovo Municipality",
+  "term_start7": "2008",
+  "term_end7": "2011",
+  "birth_name": "Oliver Spasovski",
+  "birth_date": "October 21, 1976",
+  "birth_place": "Kumanovo, SR Macedonia, SFR Yugoslavia (now North Macedonia)",
+  "spouse": "Katerina",
+  "children": "2",
+  "occupation": "Politician",
+  "party": "SDSM"
 }
