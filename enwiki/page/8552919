@@ -155,14 +155,7 @@
             "text": "MKD"
           },
           "website": {
-            "text": "http://www.nbrm.mk",
-            "links": [
-              {
-                "text": "http://www.nbrm.mk",
-                "type": "external",
-                "site": "http://www.nbrm.mk/"
-              }
-            ]
+            "text": "http://www.nbrm.mk/"
           }
         }
       ],
@@ -388,11 +381,7 @@
       ],
       "templates": [
         {
-          "list": [
-            "mk",
-            "en"
-          ],
-          "template": "in lang"
+          "template": "official website"
         },
         {
           "template": "north macedonia topics"
@@ -412,20 +401,6 @@
           "lat": 41.99361,
           "lon": 21.4425
         }
-      ],
-      "lists": [
-        [
-          {
-            "text": "National Bank of the Republic of North Macedonia official site, www.nbrm.mk",
-            "links": [
-              {
-                "text": "National Bank of the Republic of North Macedonia official site",
-                "type": "external",
-                "site": "http://www.nbrm.mk"
-              }
-            ]
-          }
-        ]
       ]
     }
   ]
