@@ -1,4 +1,2 @@
-@@,itemlabel,item,startdate,enddate
-->,Nikola Popovski,Q3407430->NULL,2002-10-04,2003-11-08
-->,Liljana Popovska,Q6540258->NULL,2003-11-08,2003-11-08
-->,Ljubisa Georgievski->Ljubiša Georgievski,Q1023595->NULL,2006-08-02,2008-06-21
+@@,item,itemlabel,startdate,enddate
+->,Q1023595,Ljubisa Georgievski->Ljubiša Georgievski,2006-08-02,2008-06-21

@@ -1,6 +1,4 @@
-@@,itemlabel,item,startdate,enddate
-->,Mitre Arsovski,Q12286997->NULL,1992-03-16,1993-03-03
-->,Dragoljub Bocinov,Q19205465->NULL,1993-03-03,1996-01-22
-->,Trajce Krstevski->Trajče Krstevski,Q48645088,1996-01-22,2000-02-11
-->,Metodija Velichkovski->Metodija Veličkovski,Q23953072,2015-08-18,2018-08-18
-->,Vasko Gjurchinovski->Vasko Gjurčinovski,Q25483496,2018-08-18,
+@@,item,itemlabel,startdate,enddate
+->,Q48645088,Trajce Krstevski->Trajče Krstevski,1996-01-22,2000-02-11
+->,Q23953072,Metodija Velichkovski->Metodija Veličkovski,2015-08-18,2018-08-18
+->,Q25483496,Vasko Gjurchinovski->Vasko Gjurčinovski,2018-08-18,
