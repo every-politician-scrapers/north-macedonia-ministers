@@ -23,10 +23,6 @@ class OfficeholderList < OfficeholderListBase
     def name_cell
       super.css('b')
     end
-
-    def tds
-      noko.css('th,td')
-    end
   end
 end
 
