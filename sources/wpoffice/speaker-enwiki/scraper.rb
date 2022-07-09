@@ -19,10 +19,6 @@ class OfficeholderList < OfficeholderListBase
     def columns
       %w[no name portrait start end].freeze
     end
-
-    def tds
-      noko.css('th,td')
-    end
   end
 end
 
