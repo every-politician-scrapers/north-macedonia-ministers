@@ -1,0 +1,28 @@
+{
+    "jurisdiction": {
+      "name": "North Macedonia",
+      "id": "Q221"
+    },
+    "cabinet": {
+      "id": "Q110597842",
+      "start": "2022-01-16",
+      "parent": "Q1343342"
+    },
+    "source": {
+        "url":   "https://vlada.mk/node/18031?ln=en-gb",
+        "title": "The Government & ministries | Влада на Република Северна Македонија",
+        "lang":  {
+            "code": "en",
+            "wikidata": "Q1860"
+        }
+    },
+    "sourcemk": {
+        "url":   "https://vlada.mk/sostav-na-vladata",
+        "title": "Состав на Владата на Република Северна Македонија | Влада на Република Северна Македонија",
+        "lang":  {
+            "code": "mk",
+            "wikidata": "Q9296"
+        }
+    },
+    "agent": "every-politican-scrapers/north-macedonia-ministers"
+}

@@ -11,7 +11,8 @@ class MemberList
     end
 
     def position
-      noko.css('.card-view-cat').text.tidy
+      noko.css('.card-view-cat').text.split(/ и (?=министер)/).map(&:tidy)
+      
     end
   end
 
@@ -22,5 +23,5 @@ class MemberList
   end
 end
 
-file = Pathname.new 'html/official-mk.html'
+file = Pathname.new 'official.html'
 puts EveryPoliticianScraper::FileData.new(file).csv
