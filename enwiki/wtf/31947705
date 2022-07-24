@@ -19,10 +19,15 @@
         {
           "sentences": [
             {
-              "text": "Bujar M. Osmani (Бугар Османов, born 11 September 1979) is a Macedonian Albanian politician serving as the current Minister of Foreign Affairs of North Macedonia and former Minister of Health.",
+              "text": "Bujar M. Osmani (Бујар Османи, born 11 September 1979 ) is a North Macedonian politician of Albanian descent, serving as the current Minister of Foreign Affairs of North Macedonia and former Minister of Health.",
               "links": [
                 {
-                  "text": "Macedonian Albanian",
+                  "text": "North Macedonian",
+                  "type": "internal",
+                  "page": "North Macedonia"
+                },
+                {
+                  "text": "Albanian descent",
                   "type": "internal",
                   "page": "Albanians in North Macedonia"
                 },
@@ -43,13 +48,22 @@
             },
             {
               "text": "On 30 August 2020, Osmani became Minister of Foreign Affairs."
+            },
+            {
+              "text": "Osmani was the first North Macedonian of Albanian descent to lead the top diplomatic post in North Macedonia."
             }
           ]
         },
         {
           "sentences": [
             {
-              "text": "He was previously a doctor at the Public Hospital in Skopje."
+              "text": "He was previously a doctor at the Public Hospital in Skopje.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Skopje"
+                }
+              ]
             }
           ]
         },
@@ -97,6 +111,10 @@
         }
       ],
       "templates": [
+        {
+          "description": "North Macedonian politician",
+          "template": "short description"
+        },
         {
           "date": "October 2021",
           "template": "use dmy dates"
@@ -252,10 +270,17 @@
       ],
       "references": [
         {
+          "url": "https://vlada.mk/node/22945?ln=en-gb",
+          "title": "Bujar Osmani",
+          "website": "Government of the Republic of North Macedonia",
+          "template": "citation",
+          "type": "web"
+        },
+        {
           "url": "https://vlada.mk/node/14655?ln=en-gb",
           "title": "Bujar Osmani, Deputy Prime Minister of the Government of the Republic of Macedonia for European Affairs in charge of European Affairs",
           "date": "11 May 2018",
-          "website": "vlada.mk",
+          "website": "Government of the Republic of North Macedonia",
           "template": "citation",
           "type": "web"
         },
@@ -263,6 +288,14 @@
           "url": "https://www.mfa.gov.mk/en/page/300/bujar-osmani",
           "title": "Министерство за надворешни работи",
           "website": "www.mfa.gov.mk",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://euronews.al/en/north-macedonia/2020/09/01/bujar-osmani-to-become-the-first-albanian-in-a-leading-diplomatic-post-in-north-macedonia/",
+          "title": "Bujar Osmani to become the first Albanian in a leading diplomatic post in North Macedonia",
+          "website": "Euronews Albania",
+          "date": "1 September 2020",
           "template": "citation",
           "type": "web"
         },
