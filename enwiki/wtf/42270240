@@ -18,21 +18,18 @@
         {
           "sentences": [
             {
-              "text": "Prof. Dr Stevo Pendarovski (Проф.",
-              "formatting": {
-                "bold": [
-                  "Prof. Dr Stevo Pendarovski"
-                ]
-              }
-            },
-            {
-              "text": "Д-р Стево Стока Пендаровски, ; born 3 April 1963) is a Macedonian politician who serves as the 5th and current President of North Macedonia since 12 May 2019.",
+              "text": "Stevo Pendarovski (Стево Пендаровски, ; born 2 April 1973) is a Macedonian politician who serves as the 5th and current President of North Macedonia since 12 May 2019.",
               "links": [
                 {
                   "type": "internal",
                   "page": "President of North Macedonia"
                 }
-              ]
+              ],
+              "formatting": {
+                "bold": [
+                  "Stevo Pendarovski"
+                ]
+              }
             }
           ]
         }
@@ -41,6 +38,10 @@
         {
           "description": "President of North Macedonia",
           "template": "short description"
+        },
+        {
+          "small": "yes",
+          "template": "pp-semi-blp"
         },
         {
           "date": "February 2022",

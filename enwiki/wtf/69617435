@@ -57,6 +57,10 @@
           "template": "short description"
         },
         {
+          "small": "yes",
+          "template": "pp-semi-blp"
+        },
+        {
           "date": "December 2021",
           "template": "more citations needed"
         },
