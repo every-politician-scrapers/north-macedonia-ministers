@@ -1,0 +1,32 @@
+[
+  {
+    "office": {
+      "links": [
+        "Social Democratic Union of Macedonia"
+      ],
+      "stated_as": "President of the Social Democratic Union"
+    },
+    "P580": "2021-12-12",
+    "P1365": {
+      "links": [
+        "Zoran Zaev"
+      ],
+      "stated_as": "Zoran Zaev"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Prime Minister of North Macedonia"
+      ],
+      "stated_as": "10th Prime Minister of North Macedonia"
+    },
+    "P580": "2022-01-17",
+    "P1365": {
+      "links": [
+        "Zoran Zaev"
+      ],
+      "stated_as": "Zoran Zaev"
+    }
+  }
+]

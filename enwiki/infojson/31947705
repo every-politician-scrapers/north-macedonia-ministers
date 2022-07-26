@@ -1,0 +1,55 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister of Health"
+    },
+    "P580": "2008-07-27",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Imer Selmani"
+    },
+    "P582": "2011-07-28",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Nikola Todorov"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Deputy Prime Minister for European Integration (North Macedonia)"
+    },
+    "P580": "2017-05-31",
+    "P582": "2020-08-30",
+    "P1366": {
+      "links": [
+        "Nikola Dimitrov"
+      ],
+      "stated_as": "Nikola Dimitrov"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Foreign Affairs (North Macedonia)"
+      ],
+      "stated_as": "Minister of Foreign Affairs"
+    },
+    "P580": "2020-08-30",
+    "P1365": {
+      "links": [
+        "Nikola Dimitrov"
+      ],
+      "stated_as": "Nikola Dimitrov"
+    }
+  }
+]

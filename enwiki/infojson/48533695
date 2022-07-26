@@ -1,0 +1,136 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Member of Assembly of the Republic of Macedonia"
+    },
+    "P580": "2006",
+    "P582": "2008"
+  },
+  {
+    "office": {
+      "links": [
+        "Kumanovo Municipality"
+      ],
+      "stated_as": "President of the Council of Kumanovo Municipality"
+    },
+    "P580": "2008",
+    "P582": "2011"
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Member of Assembly of the Republic of Macedonia"
+    },
+    "P580": "2011",
+    "P582": "2015"
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Internal Affairs (North Macedonia)"
+      ],
+      "stated_as": "Minister of Internal Affairs"
+    },
+    "P580": "2015-11-11",
+    "P1365": {
+      "links": [
+        "Mitko Čavkov"
+      ],
+      "stated_as": "Mitko Čavkov"
+    },
+    "P582": "2016-05-19",
+    "P1366": {
+      "links": [
+        "Mitko Čavkov"
+      ],
+      "stated_as": "Mitko Čavkov"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Internal Affairs (North Macedonia)"
+      ],
+      "stated_as": "Minister of Internal Affairs"
+    },
+    "P580": "2016-09-02",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Oliver Andonov"
+    },
+    "P582": "2016-12-29",
+    "P1366": {
+      "links": [
+        "Agim Nuhiu"
+      ],
+      "stated_as": "Agim Nuhiu"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Internal Affairs (North Macedonia)"
+      ],
+      "stated_as": "Minister of Internal Affairs"
+    },
+    "P580": "2017-06-01",
+    "P1365": {
+      "links": [
+        "Agim Nuhiu"
+      ],
+      "stated_as": "Agim Nuhiu"
+    },
+    "P582": "2020-01-03",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Nakje Chulev"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Prime Minister of North Macedonia"
+    },
+    "P1545": "9",
+    "P580": "2020-01-03",
+    "P1365": {
+      "links": [
+        "Zoran Zaev"
+      ],
+      "stated_as": "Zoran Zaev"
+    },
+    "P582": "2020-08-30",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Zoran Zaev"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Internal Affairs (North Macedonia)"
+      ],
+      "stated_as": "Minister of Internal Affairs"
+    },
+    "P580": "2020-08-30",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Nakje Chulev"
+    }
+  }
+]
