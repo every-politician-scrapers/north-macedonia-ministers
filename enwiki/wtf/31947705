@@ -19,17 +19,12 @@
         {
           "sentences": [
             {
-              "text": "Bujar M. Osmani (Бујар Османи, born 11 September 1979 ) is a North Macedonian politician of Albanian descent, serving as the current Minister of Foreign Affairs of North Macedonia and former Minister of Health.",
+              "text": "Bujar M. Osmani (Бујар Османи, born 11 September 1979 ) is a Macedonian politician, serving as the current Minister of Foreign Affairs of North Macedonia and former Minister of Health.",
               "links": [
                 {
-                  "text": "North Macedonian",
+                  "text": "Macedonian",
                   "type": "internal",
                   "page": "North Macedonia"
-                },
-                {
-                  "text": "Albanian descent",
-                  "type": "internal",
-                  "page": "Albanians in North Macedonia"
                 },
                 {
                   "text": "Minister of Foreign Affairs of North Macedonia",
