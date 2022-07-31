@@ -45,7 +45,7 @@
               "text": "On 30 August 2020, Osmani became Minister of Foreign Affairs."
             },
             {
-              "text": "Osmani was the first North Macedonian of Albanian descent to lead the top diplomatic post in North Macedonia."
+              "text": "Osmani was the first Macedonian of Albanian descent to lead the top diplomatic post in North Macedonia."
             }
           ]
         },
@@ -223,6 +223,22 @@
                 "text": "SFR Yugoslavia",
                 "type": "internal",
                 "page": "Socialist Federal Republic of Yugoslavia"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "Macedonian"
+          },
+          "blank1": {
+            "text": "Ethnicity"
+          },
+          "data1": {
+            "text": "Albanian",
+            "links": [
+              {
+                "text": "Albanian",
+                "type": "internal",
+                "page": "Albanians in North Macedonia"
               }
             ]
           },

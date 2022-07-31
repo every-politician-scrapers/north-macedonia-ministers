@@ -186,7 +186,7 @@
             "text": "April 15, 1962"
           },
           "birth_place": {
-            "text": "Forino, PR Macedonia, Yugoslavia",
+            "text": "Forino, PR Macedonia, Yugoslavia (now Republic of North Macedonia)",
             "links": [
               {
                 "text": "Forino",
@@ -201,18 +201,15 @@
                 "text": "Yugoslavia",
                 "type": "internal",
                 "page": "Socialist Federative Republic of Yugoslavia"
+              },
+              {
+                "type": "internal",
+                "page": "Republic of North Macedonia"
               }
             ]
           },
           "nationality": {
-            "text": "🇲🇰 Macedonian",
-            "links": [
-              {
-                "text": "Macedonian",
-                "type": "internal",
-                "page": "macedonia"
-              }
-            ]
+            "text": "Macedonian"
           },
           "blank1": {
             "text": "Ethnicity"
